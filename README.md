@@ -16,8 +16,8 @@ VUE3 콤포넌트 개발 프로젝트
 - 사용 api: web drag and drop
 
 ## 진행상황
-![vue3 시현영상](![video1811291166](https://github.com/SeungHuiHan/Pmx-mini-intern-project-final/assets/98226400/423a62ba-023f-446c-bf16-dd093a0911b7)
-)
+![video1811291166](https://github.com/SeungHuiHan/Pmx-mini-intern-project-final/assets/98226400/eaf43100-ce33-4421-9bc7-4b8ded08f789)
+
 
 
 ### 이미지 로딩
