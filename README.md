@@ -21,7 +21,8 @@ VUE3 콤포넌트 개발 프로젝트
 
 
 ### 이미지 로딩
-![image](https://github.com/SeungHuiHan/Pmx-mini-intern-project/assets/98226400/73f8fe4c-818e-47ac-b562-f39e8a3b6774)
+![image](https://github.com/SeungHuiHan/Pmx-mini-intern-project-final/assets/98226400/13387716-e750-4790-8fae-c3972d5299c8)
+
 ```
 <img
           :src="imageUrl"
